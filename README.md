@@ -15,7 +15,7 @@ Este análisis surge de esa pregunta. El objetivo no es señalar culpables, sino
 | Archivo | Descripción |
 |---|---|
 | `README.md` | Este documento |
-| `dataset_linkedin_elsalvador_mayo2026.csv` | Dataset original extraído de LinkedIn (430 ofertas) |
+| `dataset_linkedin.json` | Dataset original extraído de LinkedIn (430 ofertas) |
 | `analisis_habilidades_sv.xlsx` | Resultados del análisis con ranking, gráficos y datos por categoría |
 | `analisis_habilidades.ipynb` | Notebook con el código completo y los hallazgos documentados |
 
